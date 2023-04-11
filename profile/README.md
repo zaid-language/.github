@@ -2,7 +2,7 @@
 
 [![Test](https://github.com/zaid-language/zaid-lang/actions/workflows/test.yml/badge.svg)](https://github.com/zaid-language/zaid-lang/actions/workflows/test.yml)
 
-Zaidlang is a small, object-oriented, embeddable toy scripting language. While object-oriented, Ghost also supports procedural and functional programming styles as well.
+Zaidlang is a small, object-oriented, embeddable toy scripting language. While object-oriented, Zaidlang also supports procedural and functional programming styles as well.
 
 Zaidlang is dynamically typed, runs by a tree-walking interpreter, and has automatic memory management thanks to its implementation through the Go programming language.
 
